@@ -1,0 +1,27 @@
+axe:
+    iron 63
+    copper 73
+pickaxe:
+    iron 62
+    copper 72
+shovel:
+    iron 61
+    copper 71
+    steel 77
+
+wooden fence: 44
+stone floor: 41
+ores:
+    gold_ingot: 8
+    steel: 7
+    iron_ingot: 4
+    coal: 3
+    stone: 2
+glass: 23
+glass_bottle: 85
+water_bottle: 89
+fibers: 5
+clay: 6
+slime (drop): 9
+mushroom: 10
+wood: 1
