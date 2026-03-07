@@ -254,25 +254,6 @@ video {
   padding-bottom: 1.5rem;
 }
 
-.header-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.75rem;
-}
-
-.header-title {
-  font-weight: Cormorant Garamond;
-  text-align: center;
-  letter-spacing: -0.025em;
-}
-
-.header-subtitle {
-  color: var(--gjs-t-color-secondary);
-  text-align: center;
-  max-width: 48rem;
-}
-
 .header-divider {
   border-top-width: 1px;
   border-color: rgb(226 210 192 / 1);
@@ -469,11 +450,7 @@ video {
   height: 1rem;
 }
 
-#igebcv-2 {
-  color: rgba(114, 64, 64, 1);
-}
-
-#igebcv-2-2 {
+#igebcv-2-2-2 {
   color: rgba(114, 64, 64, 1);
 }
 
@@ -537,6 +514,14 @@ video {
 
 #i7fei {
   font-size: 36pt;
+  color: rgba(114, 64, 64, 1);
+}
+
+#igebcv-2 {
+  color: rgba(114, 64, 64, 1);
+}
+
+#igebcv-2-2 {
   color: rgba(114, 64, 64, 1);
 }
 
