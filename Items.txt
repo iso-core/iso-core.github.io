@@ -20,6 +20,12 @@ glass_bottle: 85
 water_bottle: 89
 
 
+
+tree sap: 15
+gold ore: 14
+iron ore: 13
+lime stone: 12
+toadstool: 11
 mushroom: 10
 slime (drop): 9
 gold: 8
