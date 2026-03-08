@@ -19,9 +19,10 @@ glass: 23
 glass_bottle: 85
 water_bottle: 89
 
-slime (drop): 9
+
 mushroom: 10
 
+slime (drop): 9
 gold: 8
 steel: 7
 clay: 6

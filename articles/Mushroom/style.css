@@ -517,10 +517,6 @@ video {
   color: rgba(114, 64, 64, 1);
 }
 
-#igebcv-2 {
-  color: rgba(114, 64, 64, 1);
-}
-
 #igebcv-2-2 {
   color: rgba(114, 64, 64, 1);
 }
@@ -531,6 +527,18 @@ video {
   height: 223px;
   display: block;
   image-rendering: pixelated;
+  padding-top: 0px;
+  padding-right: 56px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#igebcv-2 {
+  color: rgba(114, 64, 64, 1);
 }
 
 .tsb-header h3.tsb-title {
