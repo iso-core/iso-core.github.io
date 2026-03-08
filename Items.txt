@@ -21,7 +21,6 @@ water_bottle: 89
 
 
 mushroom: 10
-
 slime (drop): 9
 gold: 8
 steel: 7
